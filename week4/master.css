@@ -1,0 +1,46 @@
+/* Added external fonts*/
+@import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans:400,700|Quattrocento:400,700');
+
+
+h1{
+
+  font-family: 'Quattrocento Sans', sans-serif;
+font-weight: 400;
+color: #A0C1B9
+}
+
+h2{
+
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-weight: 700;
+  color: #A8C6BF
+}
+
+
+p{
+
+font-family: 'Quattrocento', serif;
+color: #B1CCC5
+
+}
+
+body{
+
+background-color: #3B4744;
+
+
+
+}
+
+header,main{
+  max-width: 500px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menuTitles{
+
+color: #D3E2DF
+
+}
