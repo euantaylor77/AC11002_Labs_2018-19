@@ -1,0 +1,92 @@
+/* Added external fonts*/
+@import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans:400,700|Quattrocento:400,700');
+
+img {
+  width: 70%;
+  height: 300px;
+}
+
+h1 {
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-weight: 400;
+  color: #A0C1B9;
+  background-color: #f9e6ff;
+  float: inherit;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-weight: 700;
+  color: #A8C6BF
+}
+
+p {
+  font-family: 'Quattrocento', serif;
+  color: #B1CCC5
+}
+
+header h1 {
+  padding-left: 10px;
+}
+
+#mainContent {
+  width: 25%;
+  float: right;
+  height: 300px;
+  padding-left: 5%;
+}
+
+#secondaryContent1 {
+  width: 25%;
+  float: left;
+}
+
+#secondaryContent2 {
+  width: 25%;
+  float: left;
+}
+
+#secondaryContent3 {
+  width: 25%;
+  float: right;
+}
+
+#secondaryContent4 {
+  width: 25%;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #737373;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+li a:active {
+  background-color: #333;
+}
+
+body {
+  max-width: 960px;
+  margin: 0 auto;
+}
