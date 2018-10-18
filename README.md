@@ -9,4 +9,5 @@ This repository contains information from the following labs:
 * Weeks 5 HTML Lab - <a href="week5/boxModel.html">Creating a box model layout for a webpage using CSS</a>
 * Weeks 6 HTML Lab - <a href="week6/techCentral.html">Example webpage for tech-central</a>
 * Weeks 6 HTML Lab - <a href="week6/frameworkExample.html">Example of using frameworks</a>
+* Weeks 6 HTML Lab - <a href="week6/bootstrapDemo/index.html">Example of using bootstrap<a/>
 Made by @euantaylor77
