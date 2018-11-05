@@ -11,5 +11,6 @@ This repository contains information from the following labs:
 * Weeks 6 HTML Lab - <a href="week6/frameworkExample.html">Example of using frameworks</a>
 * Weeks 6 HTML Lab - <a href="week6/bootstrapDemo/index.html">Example of using bootstrap<a/>
 * Weeks 7 Lab - <a href="week7">Week 7<a/>
-* Weeks 8 Lab - <a href="week8">Bootstrap example<a/>
+* Weeks 8 Lab - <a href="week8/labActivity1.html">Bootstrap example<a/>
+* Weeks 9 Lab - <a href="week9/myWebsite/index.html">Jekyll Website<a/>
 Made by @euantaylor77
